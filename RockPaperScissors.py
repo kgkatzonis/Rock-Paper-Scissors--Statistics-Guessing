@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-Rock Paper Scissors program
+Rock Paper Scissors with statistic probability guessing 
 Written by Konstantinos Gkatzonis
 """
 import random as rnd
